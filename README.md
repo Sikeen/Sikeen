@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Sikeen
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning c# and unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+copied from gitlab:
+
 
 <!---
 Sikeen/Sikeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
